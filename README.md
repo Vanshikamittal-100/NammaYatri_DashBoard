@@ -96,3 +96,5 @@ Conversion Rate: Calculated as SUM(end_ride) / SUM(searches)
 
 ## Conclusion
 This project provided a detailed analysis of the Namma Yatri ride-sharing data, highlighting key areas for service optimization and customer satisfaction improvement. The insights gained can help in strategic decision-making for better resource allocation and service enhancements.
+
+## Report Snapshot (Power BI DESKTOP)
